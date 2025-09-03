@@ -10,3 +10,7 @@ Search Functionality in
 Advantageonlineshopping.com - write reusable code for String search(keyword)
 
 https://magento.softwaretestingboard.com/catalogsearch/result/?q=Clamber
+
+Allure reports 
+https://allurereport.org/
+
