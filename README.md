@@ -22,3 +22,9 @@ select oi.order_id,o.user_id,u.name,p.name,oi.quantity,oi.price
   u.user_id=1 and oi.order_id=1
   order by oi.order_id
   
+https://murthybala.postman.co/workspace/ProdaptWorkspace~d427a7c4-3d18-4b1e-896b-e59e8de6180a/run/9318821-67c0db24-c40f-474e-87da-17704cd52ff7
+
+
+
+
+
